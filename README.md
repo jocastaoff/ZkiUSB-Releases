@@ -62,9 +62,15 @@
 
 ---
 
-## 📸 Captures d'écran
+## 📸 Preview
 
-*(À ajouter)*
+*Les captures d'écran seront ajoutées prochainement.*
+
+<!-- Screenshots à ajouter :
+![ZkiUSB Main Interface](screenshots/main-interface.png)
+![ZkiUSB USB Detection](screenshots/usb-detection.png) 
+![ZkiUSB DLL Security](screenshots/dll-security.png)
+-->
 
 ---
 
