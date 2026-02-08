@@ -102,7 +102,7 @@ Voir [LICENSE.txt](LICENSE.txt) pour les termes complets.
 
 ## 🆘 Support
 
-- 📧 Email : legamerdu771@gmail.com
+- 📧 Email : murat.tatar.76610@gmail.com
 - 🐛 Signaler un bug : [Issues GitHub](https://github.com/jocastaoff/ZkiUSB-Releases/issues)
 
 ---
