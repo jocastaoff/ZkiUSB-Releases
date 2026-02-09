@@ -40,17 +40,6 @@
 
 Conçu avec une approche **sécurité-données-first**, il offre une interface utilisateur intuitive et professionnelle avec un design **Liquid Glass** moderne pour gérer vos périphériques de stockage amovibles.
 
-### 🎯 Points forts
-
-- ✅ Architecture modulaire et maintenable (Clean Architecture)
-- ✅ Interface utilisateur moderne (Dark Theme + Liquid Glass)
-- ✅ Détection automatique des périphériques USB
-- ✅ Diagnostic complet et rapide
-- ✅ Réparation du système de fichiers
-- ✅ Récupération de données
-- ✅ **Protection contre les malwares USB (DLL Injection)**
-- ✅ Formatage avec confirmations de sécurité
-
 ---
 
 ## ✨ Fonctionnalités
@@ -137,21 +126,6 @@ Téléchargez la dernière version :
 - **Runtime** : .NET 8.0 (inclus dans l'installateur)
 - **Privilèges** : Administrateur (pour certaines opérations)
 
-### ⚡ Installation rapide
-
-```bash
-# Téléchargez et exécutez
-ZkiUSB-Setup-1.0.0.exe
-
-# Suivez l'assistant d'installation
-```
-
-### 🔧 Installation silencieuse (entreprise)
-
-```bash
-ZkiUSB-Setup-1.0.0.exe /VERYSILENT /NORESTART
-```
-
 ---
 
 ## 🚀 Utilisation
@@ -165,23 +139,6 @@ ZkiUSB-Setup-1.0.0.exe /VERYSILENT /NORESTART
    - ⚡ Vérification rapide
    - 🔍 Diagnostic complet
    - 🔧 Réparation
-
-### Workflow recommandé
-
-```
-1. Connexion de la clé USB
-        ↓
-2. Sélection du périphérique
-        ↓
-3. Vérification rapide (⚡)
-        ↓
-4. Si problèmes détectés → Diagnostic complet (🔍)
-        ↓
-5. Suivre les recommandations
-   - Sauvegarder les données si nécessaire
-   - Réparer le système de fichiers
-   - Ou formater en dernier recours
-```
 
 ### ⚠️ Avertissements de sécurité
 
