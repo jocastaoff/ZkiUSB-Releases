@@ -42,56 +42,6 @@ Conçu avec une approche **sécurité-données-first**, il offre une interface u
 
 ---
 
-## ✨ Fonctionnalités
-
-### 🔍 Détection & Identification USB
-
-- Détection automatique des clés USB à la connexion
-- Affichage des informations détaillées :
-  - Nom et fabricant
-  - Capacité totale et espace utilisé
-  - Système de fichiers (FAT32, NTFS, exFAT, etc.)
-  - Statut du périphérique (Sain, RAW, Corrompu, etc.)
-  - Numéro de série
-  - Lettre de lecteur
-
-### 🔬 Analyse & Diagnostic
-
-| Type d'analyse | Description | Durée |
-|----------------|-------------|-------|
-| **Vérification rapide** | Scan rapide des problèmes courants | ~5s |
-| **Diagnostic complet** | Analyse approfondie de tous les aspects | ~30s |
-
-**Vérifications effectuées :**
-- Accessibilité du périphérique
-- Système de fichiers
-- Partitions
-- Secteur de boot
-- Erreurs logiques
-- Bad sectors (via SMART)
-
-### 🛠️ Actions de réparation
-
-| Action | Description | Risque données |
-|--------|-------------|----------------|
-| 🔧 Vérifier/Réparer FS | Chkdsk avec correction automatique | Faible |
-| 🏗 Reconstruire partitions | Recréation de la table des partitions | Élevé |
-| 💾 Récupération données | Copie des fichiers vers un emplacement sûr | Aucun |
-| ⚠️ Formater | Formatage complet du périphérique | Total |
-| 🔄 Changer lettre | Attribution d'une nouvelle lettre de lecteur | Aucun |
-
-### 🛡️ Protection DLL (SEC INJ)
-
-Système de sécurité avancé détectant et bloquant les DLL malveillantes provenant de clés USB :
-
-- 🔒 **Blocage temps réel** des DLL suspectes
-- 🔍 **Vérification de signature** numérique
-- 📋 **Whitelist/Blacklist** par hash SHA256
-- 🚨 **Détection heuristique** de patterns suspects
-- 📊 **Journal complet** des menaces bloquées
-
----
-
 ## 🖼️ Preview
 
 <div align="center">
