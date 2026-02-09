@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ZkiUSB.ico" width="120" height="120" alt="ZkiUSB Logo">
+<img src="ZkiUSBL.png" width="200" height="200" alt="ZkiUSB Logo">
 
 # 🔌 ZkiUSB
 
