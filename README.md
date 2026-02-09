@@ -19,21 +19,6 @@
 
 ---
 
-## 📋 Table des matières
-
-- [📖 Introduction](#-introduction)
-- [✨ Fonctionnalités](#-fonctionnalités)
-- [🖼️ Preview](#️-preview)
-- [💾 Installation](#-installation)
-- [🚀 Utilisation](#-utilisation)
-- [🏗️ Architecture](#️-architecture)
-- [🛡️ Sécurité DLL](#️-sécurité-dll)
-- [📝 Documentation](#-documentation)
-- [🤝 Contribution](#-contribution)
-- [📄 Licence](#-licence)
-
----
-
 ## 📖 Introduction
 
 **ZkiUSB** est un logiciel desktop Windows moderne développé en C# dédié à la **détection**, l'**analyse** et la **résolution de problèmes** liés aux clés USB.
@@ -159,49 +144,6 @@ Le système **SEC INJ** (Secure DLL Injection Prevention) protège votre ordinat
 - **Permissif** : Alertes uniquement
 - **Modéré** : Blocage des menaces connues (défaut)
 - **Strict** : Whitelist uniquement
-
----
-
-## 📝 Documentation
-
-- 📘 **[Documentation Technique](DOCUMENTATION_TECHNIQUE.md)** - Architecture détaillée
-- 📗 **[Changelog](CHANGELOG.md)** - Historique des versions
-- 📕 **[Guide d'installation](INSTALLER.md)** - Création de l'installateur
-- 📙 **[Packaging](PACKAGING.md)** - Guide du packager
-
----
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour les guidelines.
-
-### Rapport de bugs
-
-Si vous rencontrez un problème :
-
-1. Vérifiez les [issues existantes](https://github.com/murattatar/ZkiUSB/issues)
-2. Créez une nouvelle issue avec :
-   - Description du problème
-   - Étapes de reproduction
-   - Version de Windows
-   - Logs d'erreur (dans `%LocalAppData%\ZkiUSB\CrashLogs`)
-
-### Développement
-
-```bash
-# Cloner le repository
-git clone https://github.com/murattatar/ZkiUSB.git
-cd ZkiUSB
-
-# Restaurer les packages
-dotnet restore
-
-# Compiler
-dotnet build --configuration Release
-
-# Exécuter
-dotnet run --project ZkiUSB.UI
-```
 
 ---
 
