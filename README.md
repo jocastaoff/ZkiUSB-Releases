@@ -53,7 +53,7 @@ Téléchargez la dernière version :
 - **💿 Installateur Windows** : `ZkiUSB-Setup-1.0.0.exe` (~50 MB)
 - **📦 Version Portable** : `ZkiUSB-Portable.zip` (~45 MB)
 
-➡️ [Page des releases](https://github.com/murattatar/ZkiUSB/releases)
+➡️ [Page des releases](https://github.com/jocastaoff/ZkiUSB-releases/releases)
 
 ### 🖥️ Prérequis
 
