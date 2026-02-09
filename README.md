@@ -318,8 +318,8 @@ L'utilisation est soumise aux termes de la licence EULA.
 **Murat Tatar**
 
 - 🏗️ Développement et conception : 2026
-- 📧 Contact : *(à ajouter)*
-- 🌐 GitHub : [@murattatar](https://github.com/murattatar)
+- 📧 Contact : murat.tatar.76610.gmail.com
+- 🌐 GitHub : [@jocastaoff](https://github.com/jocastaoff)
 
 ---
 
