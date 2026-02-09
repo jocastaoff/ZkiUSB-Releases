@@ -1,0 +1,156 @@
+================================================================================
+                        ZkiUSB - LICENCE D'UTILISATION
+                        Version 1.0.0 - Février 2026
+================================================================================
+
+CONTRAT DE LICENCE D'UTILISATEUR FINAL (EULA)
+
+IMPORTANT : VEUILLEZ LIRE ATTENTIVEMENT CE CONTRAT AVANT D'INSTALLER 
+OU D'UTILISER CE LOGICIEL. EN INSTALLANT ZkiUSB, VOUS ACCEPTEZ 
+L'ENSEMBLE DES TERMES ET CONDITIONS CI-DESSOUS.
+
+--------------------------------------------------------------------------------
+1. PROPRIÉTÉ INTELLECTUELLE
+--------------------------------------------------------------------------------
+
+ZkiUSB est un logiciel propriétaire protégé par les lois sur le droit 
+d'auteur et les traités internationaux. Ce logiciel est la propriété 
+exclusive de Murat Tatar.
+
+© 2026 Murat Tatar - Tous droits réservés.
+
+Toute reproduction, distribution, modification ou ingénierie inverse 
+du logiciel, en tout ou en partie, sans autorisation écrite préalable 
+est strictement interdite.
+
+--------------------------------------------------------------------------------
+2. CONCESSION DE LICENCE
+--------------------------------------------------------------------------------
+
+Sous réserve du respect des termes du présent contrat, Murat Tatar 
+vous accorde une licence limitée, non exclusive et non transférable 
+pour :
+
+    ✓ Installer et utiliser ZkiUSB sur un nombre illimité d'ordinateurs
+    ✓ Créer des copies de sauvegarde à des fins d'archivage
+    ✓ Distribuer le logiciel dans sa forme originale non modifiée
+
+Cette licence ne confère aucun droit de propriété sur le logiciel.
+
+--------------------------------------------------------------------------------
+3. RESTRICTIONS D'UTILISATION
+--------------------------------------------------------------------------------
+
+Vous NE POUVEZ PAS :
+
+    ✗ Modifier, décompiler, désassembler ou procéder à une ingénierie 
+      inverse du logiciel
+    ✗ Louer, prêter, vendre, sous-licencier ou transférer vos droits
+    ✗ Supprimer ou modifier les mentions de copyright
+    ✗ Utiliser le logiciel à des fins illégales ou malveillantes
+    ✗ Créer des produits dérivés basés sur ce logiciel
+
+--------------------------------------------------------------------------------
+4. AVERTISSEMENTS IMPORTANTS
+--------------------------------------------------------------------------------
+
+⚠ OPÉRATIONS À RISQUE
+
+ZkiUSB effectue des opérations sur les périphériques de stockage qui 
+peuvent entraîner une PERTE IRRÉVERSIBLE DE DONNÉES :
+
+    • FORMATAGE : Efface définitivement toutes les données
+    • RECONSTRUCTION DE PARTITIONS : Peut corrompre la table des partitions
+    • NETTOYAGE FORCÉ : Supprime irrémédiablement toutes les partitions
+    • RÉPARATION DU SYSTÈME DE FICHIERS : Risque de perte de données
+
+⚠ RECOMMANDATIONS OBLIGATOIRES
+
+AVANT toute opération avec ZkiUSB, vous DEVEZ :
+
+    1. Sauvegarder l'intégralité de vos données importantes
+    2. Vérifier l'intégrité de vos sauvegardes
+    3. Vous assurer de disposer des droits d'accès sur le périphérique
+    4. Comprendre l'opération que vous allez effectuer
+
+--------------------------------------------------------------------------------
+5. CLAUSE DE RESPONSABILITÉ
+--------------------------------------------------------------------------------
+
+DANS TOUTE LA MESURE PERMISE PAR LA LOI APPLICABLE :
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT" SANS GARANTIE D'AUCUNE SORTE, 
+EXPRESSE OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER, LES GARANTIES 
+DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE 
+DE CONTREFAÇON.
+
+EN AUCUN CAS L'AUTEUR OU LES DÉTENTEURS DU COPYRIGHT NE SERONT 
+RESPONSABLES DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL, 
+EXEMPLAIRE OU CONSÉCUTIF (Y COMPRIS, MAIS SANS S'Y LIMITER, L'ACHAT 
+DE BIENS OU DE SERVICES DE SUBSTITUTION, LA PERTE D'UTILISATION, 
+DE DONNÉES OU DE PROFITS, OU L'INTERRUPTION D'ACTIVITÉ) QUELLE 
+QU'EN SOIT LA CAUSE ET SUR TOUTE THÉORIE DE RESPONSABILITÉ, QUE 
+CE SOIT DANS LE CADRE D'UN CONTRAT, D'UNE RESPONSABILITÉ STRICTE 
+OU D'UN DÉLIT (Y COMPRIS LA NÉGLIGENCE OU AUTRE) DÉCOULANT DE 
+L'UTILISATION DE CE LOGICIEL, MÊME SI AVISÉ DE LA POSSIBILITÉ 
+DE TELS DOMMAGES.
+
+--------------------------------------------------------------------------------
+6. SÉCURITÉ ET PROTECTION DES DONNÉES
+--------------------------------------------------------------------------------
+
+ZkiUSB inclut des fonctionnalités de sécurité pour détecter et bloquer 
+les menaces potentielles provenant de périphériques USB. Cependant :
+
+    • Aucun système de sécurité n'est infaillible
+    • La détection repose sur des heuristiques et des signatures
+    • Des faux positifs ou faux négatifs peuvent survenir
+    • L'utilisateur demeure responsable de la sécurité de son système
+
+--------------------------------------------------------------------------------
+7. COLLECTE DE DONNÉES
+--------------------------------------------------------------------------------
+
+ZkiUSB respecte votre vie privée :
+
+    • Aucune donnée personnelle n'est collectée
+    • Aucune connexion Internet n'est établie
+    • Les logs restent sur votre ordinateur local
+    • Les rapports de crash sont stockés localement
+
+--------------------------------------------------------------------------------
+8. RÉSILIATION
+--------------------------------------------------------------------------------
+
+Cette licence est résiliée automatiquement en cas de violation des 
+termes ci-dessus. À la résiliation, vous devez cesser toute utilisation 
+du logiciel et détruire toutes les copies en votre possession.
+
+--------------------------------------------------------------------------------
+9. LOI APPLICABLE
+--------------------------------------------------------------------------------
+
+Ce contrat est régi par les lois françaises. Tout litige relatif à 
+l'interprétation ou à l'exécution du présent contrat relève de la 
+compétence exclusive des tribunaux français.
+
+--------------------------------------------------------------------------------
+10. CONTACT ET SUPPORT
+--------------------------------------------------------------------------------
+
+Pour toute question concernant cette licence ou le logiciel :
+
+    Auteur      : Murat Tatar
+    Projet      : ZkiUSB
+    Version     : 1.0.0
+    Date        : Février 2026
+
+--------------------------------------------------------------------------------
+
+EN CLiquant sur "J'accepte" ou en installant ce logiciel, vous 
+reconnaissez avoir lu, compris et accepté l'intégralité de cette 
+licence d'utilisation.
+
+================================================================================
+                         MURAT TATAR - © 2026
+================================================================================
