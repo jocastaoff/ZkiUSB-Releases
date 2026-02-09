@@ -88,16 +88,42 @@ Téléchargez la dernière version :
 
 ## 📄 Licence
 
-Ce logiciel est distribué sous **licence propriétaire**.
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.txt)
+
+</div>
+
+### ⚖️ Licence Propriétaire
+
+Ce logiciel est la propriété exclusive de **Murat Tatar** et est distribué sous licence propriétaire.
 
 ```
-Copyright © 2026 Murat Tatar - Tous droits réservés
-
-Ce logiciel est fourni "en l'état", sans garantie d'aucune sorte.
-L'utilisation est soumise aux termes de la licence EULA.
+┌─────────────────────────────────────────────────────────────┐
+│                    ZkiUSB - Licence                        │
+├─────────────────────────────────────────────────────────────┤
+│  Copyright © 2026 Murat Tatar                              │
+│  Tous droits réservés                                      │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-➡️ Voir [LICENSE.txt](LICENSE.txt) pour le texte complet.
+### ✅ Droits accordés
+
+| Usage | Autorisé |
+|-------|----------|
+| **Utilisation personnelle** | ✅ Oui |
+| **Utilisation commerciale** | ✅ Avec autorisation |
+| **Distribution** | ❌ Non autorisée |
+| **Modification** | ❌ Non autorisée |
+| **Reverse engineering** | ❌ Non autorisé |
+
+### ⚠️ Clause de non-responsabilité
+
+Ce logiciel est fourni **"en l'état"**, sans garantie d'aucune sorte, expresse ou implicite. L'auteur ne pourra être tenu responsable de tout dommage direct ou indirect résultant de l'utilisation de ce logiciel.
+
+### 📜 Texte complet
+
+➡️ Consultez le fichier [LICENSE.txt](LICENSE.txt) pour l'intégralité des termes et conditions.
 
 ---
 
