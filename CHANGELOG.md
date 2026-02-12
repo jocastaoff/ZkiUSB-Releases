@@ -5,6 +5,26 @@
 
 ---
 
+## [1.0.1] - 12 février 2026
+
+### ✨ Améliorations
+
+- **Onglet Santé entièrement fonctionnel**
+  - Design Liquid Glass complet avec animations de flottement
+  - Synchronisation automatique avec les périphériques USB connectés
+  - Affichage des statistiques globales (Sain/Avertissement/Critique)
+  - Données réelles de santé pour chaque périphérique
+  - Historique détaillé avec timestamps
+  - Prédictions de durée de vie basées sur l'historique
+
+### 🔧 Corrections
+
+- Correction de la propriété PlaceholderText incompatible WPF
+- Correction de la propriété Background.Opacity
+- Correction des références DeviceInfo dans les événements USB
+
+---
+
 ## [1.0.0] - 2026
 
 ### ✨ Ajouté
@@ -66,13 +86,30 @@
 
 ## Roadmap
 
-### Version 1.1.0 (prévue)
+### Version 1.1.0 - Publiée le 10 février 2026
 
-- [ ] Support du chiffrement BitLocker
-- [ ] Historique des diagnostics
-- [ ] Export PDF des rapports
-- [ ] Mode ligne de commande
-- [ ] Traduction multilingue
+#### ✨ Nouvelles fonctionnalités
+
+- [x] **Vérification d'authenticité des clés USB**
+  - Détection des clés USB contrefaites (fausse capacité)
+  - Test complet de la capacité réelle vs. annoncée
+  - Génération d'un rapport détaillé avec verdict
+
+- [x] **Onglet "Santé" complet** 🎉
+  - Historique complet de chaque clé USB (par numéro de série)
+  - Affichage de la "Santé" sur une timeline
+  - Prédiction de défaillance (tendance, risque, durée de vie estimée)
+  - Système de tags personnalisés ("Backup Janvier", "Client X", etc.)
+  - Notes par périphérique
+  - Export CSV de l'inventaire complet
+  - Design Liquid Glass moderne et cohérent
+
+#### 🔧 Améliorations techniques
+
+- Persistance JSON locale des données de santé
+- Algorithmes de prédiction basés sur l'historique
+- Calcul automatique du score de santé (0-100)
+- Détection des tendances (amélioration, stable, dégradation, critique)
 
 ### Version 1.2.0 (prévue)
 

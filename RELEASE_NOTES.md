@@ -1,5 +1,47 @@
 # Notes de Release - ZkiUSB
 
+## Version 1.0.1 (2026-02-12)
+
+### 🎉 Onglet Santé entièrement fonctionnel
+
+#### ✨ Nouveautés
+
+- **Design Liquid Glass complet**
+  - Effet de verre translucide avec bordures givrées
+  - Animations de flottement subtiles
+  - Ombres naturelles et profondeur
+  - Cohérence visuelle avec le reste de l'application
+
+- **Synchronisation automatique des données**
+  - Enregistrement automatique des périphériques USB connectés
+  - Mise à jour en temps réel de l'historique
+  - Statistiques globales (Sain/Avertissement/Critique)
+
+- **Informations de santé détaillées**
+  - Score de santé (0-100%)
+  - Tendance (📈 📉 ➡️ ⚠️)
+  - Durée de vie estimée en jours
+  - Risque de défaillance
+  - Historique complet des connexions
+
+- **Statistiques de performance**
+  - Vitesse de lecture maximale
+  - Vitesse d'écriture maximale
+  - Nombre de diagnostics effectués
+  - Nombre total de connexions
+
+#### 🔧 Corrections techniques
+
+- Correction des erreurs XAML (PlaceholderText, Background.Opacity)
+- Correction des références DeviceInfo dans les événements USB
+- Amélioration de la stabilité du service de santé
+
+#### 📥 Téléchargement
+
+- Installateur : `ZkiUSB-Setup-1.0.1.exe`
+
+---
+
 ## Version 1.0.0 (2026-02-08)
 
 ### 🎉 Première version stable
